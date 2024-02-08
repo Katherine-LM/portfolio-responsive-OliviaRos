@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    background: #373A3C 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+header {
+    background-image: url(../img/bg-hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    height: 70vh;
+    font: normal normal bold 70px/82px Raleway;
+    text-align: right;
+    color: white;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: 900;
+
+}
+
+header p {
+    text-align: right;
+    font: normal normal normal 16px/25px Raleway;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.about-me h1 {
+    font: normal normal bold 50px/59px Raleway;
+}
+
+.about-me h5 {
+    font: normal normal bold 20px/24px Raleway;
+}
+
+.projects {
+    background: #17A2B8 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.projects h1 {
+    font: normal normal bold 50px/59px Raleway;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.container-form h1 {
+    text-align: center;
+    font: normal normal bold 50px/59px Raleway;
+    letter-spacing: 0.5px;
+    color: #000000;
+    opacity: 1;
+}
+
+.container-form button {
+    background: #17A2B8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+
+}
+
+.footer {
+    background: #0F0F0F 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+.footer p {
+    text-align: center;
+    font: normal normal normal 16px/25px Raleway;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
